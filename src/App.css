@@ -135,12 +135,13 @@ p{
   background-color: #F2F7A1;
 }
 label{
+  margin-top: 20px;
   font-family: 'Arimo', sans-serif;
   color:#F2F7A1 ;
 }
 .text-input{
   font-family: 'Arimo', sans-serif;
-  background-color: #453C67;
+  margin-top: 20px;
   border: none;
   padding: 12px 20px;
 }
